@@ -1,5 +1,5 @@
-# Diabeties-Prediction
-<p>Diabeties prediction is done using Random Forest Classifier.</p>
+# Diabetes-Prediction
+<p>Diabetes prediction is done using Random Forest Classifier.</p>
 <p>The data set used in this project is "https://www.kaggle.com/datasets/mathchi/diabetes-data-set"</p>
 <p>output is obtained running "run D:\dia_code\diabetes.py" in terminal</p>
 
